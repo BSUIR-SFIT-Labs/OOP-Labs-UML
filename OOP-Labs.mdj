@@ -1,0 +1,25 @@
+{
+	"_type": "Project",
+	"_id": "AAAAAAFF+h6SjaM2Hec=",
+	"name": "OOP-Labs",
+	"ownedElements": [
+		{
+			"_type": "UMLModel",
+			"_id": "AAAAAAF0muiTWD7+Xpw=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "OOP-Labs",
+			"ownedElements": [
+				{
+					"_type": "UMLUseCaseDiagram",
+					"_id": "AAAAAAF0muiTWD7/HPU=",
+					"_parent": {
+						"$ref": "AAAAAAF0muiTWD7+Xpw="
+					},
+					"name": "UseCaseDiagram"
+				}
+			]
+		}
+	]
+}
