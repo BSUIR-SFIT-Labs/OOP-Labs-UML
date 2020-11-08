@@ -9,3 +9,8 @@
   <img src="Assets/DeploymentDiagram.jpg" alt="Диаграмма Deployment" width="100%" height="auto" />
 </p>
 
+### 2. Statechart Диаграмма (ЛР №3)
+<p align="center">
+  <img src="Assets/StatechartDiagram.jpg" alt="Statechart Диаграмма" width="100%" height="auto" />
+</p>
+
