@@ -30,7 +30,12 @@
   <img src="Assets/Печать отчета.jpg" alt="Sequence диаграмма" width="100%" height="auto" />
 </p>
 
-### 6. Component диаграмма (ЛР №5)
+### 6. Component диаграмма (ЛР №6)
 <p align="center">
   <img src="Assets/ComponentDiagram.jpg" alt="Component диаграмма" width="100%" height="auto" />
+</p>
+
+### 7. Class диаграмма (ЛР №7)
+<p align="center">
+  <img src="Assets/ClassDiagram.jpg" alt="Class диаграмма" width="100%" height="auto" />
 </p>
